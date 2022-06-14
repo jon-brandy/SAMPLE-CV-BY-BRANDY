@@ -1,5 +1,4 @@
 # SAMPLE-CV-BY-BRANDY
-HTML CSS JS INCLUDED 
-## WEB
----
+
+Go click the button below!
 [CLICK HERE](https://jon-brandy.github.io/SAMPLE-CV-BY-BRANDY/)
