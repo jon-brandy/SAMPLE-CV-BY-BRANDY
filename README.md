@@ -1,5 +1,5 @@
 <p align="center">
-  <img src ="https://certificates.cs50.io/8a30b03c-cdcc-4af5-b755-dc4f130017de.png?size=A4" width="500">
+  <img src="https://user-images.githubusercontent.com/70703371/173491535-3ae4b2cc-2bf0-44c7-8ba1-fa41f8d07bec.png" width="500">
 </p>
 
 # WHAT IS CS50X?
