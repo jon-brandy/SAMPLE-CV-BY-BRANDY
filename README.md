@@ -21,5 +21,6 @@ https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 ```
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/70703371/173996798-60e915fa-a65a-4398-b290-f273128d9556.png" width = "100">
+  <img src = "https://user-images.githubusercontent.com/70703371/174527156-9efe2706-dabb-4ec0-8551-0cc3f9f52e23.png" width = "100">
 </p>
+
